@@ -12,8 +12,8 @@
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [Android 版本.APK](https://fastwind.onelink.me/dMhO/8m7jzlya)
 #### :arrow_double_down: [Windows 版本.exe](https://fastwind.onelink.me/dMhO/a8ybq5kc)
-#### :arrow_double_down: [macOS Apple芯片版.dmg](https://fastwind.onelink.me/dMhO/7e1abqrs)
-#### :arrow_double_down: [macOS Intel芯片版.dmg](https://fastwind.onelink.me/dMhO/nkswwm1r)
+#### :arrow_double_down: [macOS Apple芯片版.pkg](https://fastwind.onelink.me/dMhO/7e1abqrs)
+#### :arrow_double_down: [macOS Intel芯片版.pkg](https://fastwind.onelink.me/dMhO/nkswwm1r)
 
 #### :arrow_double_down: [官方网站链接](https://fastwind.onelink.me/dMhO/r0nd8ggg)
 ----
