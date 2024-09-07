@@ -10,12 +10,12 @@
 
 ----
 ### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [Android 版本.APK](https://fastwind.onelink.me/eX7D/zxrf7l96)
-#### :arrow_double_down: [Windows 版本.exe](https://fastwind.onelink.me/eX7D/yd5jgtg5)
-#### :arrow_double_down: [macOS Apple芯片版.pkg](https://fastwind.onelink.me/eX7D/icitydo7)
-#### :arrow_double_down: [macOS Intel芯片版.pkg](https://fastwind.onelink.me/eX7D/8h869oq3)
+#### :arrow_double_down: [Android 版本.APK](https://fastwind2.onelink.me/W0UU/5hi2i3q4)
+#### :arrow_double_down: [Windows 版本.exe](https://fastwind2.onelink.me/W0UU/79qb02nn)
+#### :arrow_double_down: [macOS Apple芯片版.pkg](https://fastwind2.onelink.me/W0UU/2h79yh1s)
+#### :arrow_double_down: [macOS Intel芯片版.pkg](https://fastwind2.onelink.me/W0UU/bkpqwv1w)
 
-#### :arrow_double_down: [官方网站链接](https://fastwind.onelink.me/dMhO/r0nd8ggg)
+#### :arrow_double_down: [官方网站链接](https://fastwind2.onelink.me/W0UU/5hi2i3q4)
 ----
 ### 免费福利
 ** :gift: 下载极风加速器，免费领试用会员！**
