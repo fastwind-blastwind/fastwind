@@ -11,9 +11,9 @@
 ----
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [Android 版本.APK](https://app.jfeng.net/download/android/wind-1.1.2-release.apk)
-#### :arrow_double_down: [Windows 版本.exe](https://app.jfeng.net/download/windows/FastWindSetup-x86-1.3.10.rar)
-#### :arrow_double_down: [macOS Apple芯片版.pkg](https://app.jfeng.net/download/macos/fastwind-1.3.10-arm64.pkg)
-#### :arrow_double_down: [macOS Intel芯片版.pkg](https://app.jfeng.net/download/macos/fastwind-1.3.10.pkg)
+#### :arrow_double_down: [Windows 版本.exe](https://app.jfeng.net/download/windows/FastWindSetup-x86-1.4.0.zip)
+#### :arrow_double_down: [macOS Apple芯片版.pkg](https://app.jfeng.net/download/macos/fastwind-1.4.0-arm64.pkg)
+#### :arrow_double_down: [macOS Intel芯片版.pkg](https://app.jfeng.net/download/macos/fastwind-1.4.0.pkg)
 
 #### :arrow_double_down: [官方网站链接](https://jfeng.net)
 ----
